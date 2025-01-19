@@ -37,5 +37,8 @@ public class MemberController {
 
         return "redirect:/";
     }
+
+    @GetMapping
+    public String list
 }
 
